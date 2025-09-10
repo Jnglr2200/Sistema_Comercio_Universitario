@@ -278,7 +278,51 @@
             </div>
         </div>
 
-        
+        <div class="card card-user-story" style="background-color: lightblue;">
+    <div class="card-header">Bermeo Estacio Roberto</div>
+    <div class="card-body">
+        <p><span class="keyword">Como</span> estudiante emprendedor,</p>
+        <p><span class="keyword">Quiero</span> poder publicar mis productos en una sección de la aplicación,</p>
+        <p><span class="keyword">Para</span> ofrecerlos a la comunidad universitaria de manera rápida y segura.</p>
+    </div>
+</div>
+
+<div class="card card-user-story" style="background-color: lightblue;">
+    <div class="card-header">Bermeo Estacio Roberto</div>
+    <div class="card-body">
+        <p><span class="keyword">Como</span> comprador universitario,</p>
+        <p><span class="keyword">Quiero</span> tener un catálogo digital con filtros de búsqueda,</p>
+        <p><span class="keyword">Para</span> encontrar fácilmente productos o servicios que necesito dentro de la UTLVTE.</p>
+    </div>
+</div>
+
+<div class="card card-user-story" style="background-color: lightblue;">
+    <div class="card-header">Bermeo Estacio Roberto</div>
+    <div class="card-body">
+        <p><span class="keyword">Como</span> administrador de la plataforma,</p>
+        <p><span class="keyword">Quiero</span> supervisar las publicaciones y transacciones,</p>
+        <p><span class="keyword">Para</span> garantizar que se cumplan las normas de comercio universitario.</p>
+    </div>
+</div>
+
+<div class="card card-user-story" style="background-color: lightblue;">
+    <div class="card-header">Bermeo Estacio Roberto</div>
+    <div class="card-body">
+        <p><span class="keyword">Como</span> estudiante nuevo,</p>
+        <p><span class="keyword">Quiero</span> acceder a promociones y descuentos exclusivos en la app,</p>
+        <p><span class="keyword">Para</span> ahorrar en mis compras dentro de la universidad.</p>
+    </div>
+</div>
+
+<div class="card card-user-story" style="background-color: lightblue;">
+    <div class="card-header">Bermeo Estacio Roberto</div>
+    <div class="card-body">
+        <p><span class="keyword">Como</span> organizador de ferias universitarias,</p>
+        <p><span class="keyword">Quiero</span> un módulo para registrar y difundir eventos de comercio,</p>
+        <p><span class="keyword">Para</span> incentivar la participación de estudiantes y docentes en la UTLVTE.</p>
+    </div>
+</div>
+
     </div>
 `;
 
