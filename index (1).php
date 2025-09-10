@@ -274,6 +274,50 @@
                     <div class="card-description">Un diseño claro para las notificaciones del sistema y mensajes de confirmación.</div>
                     <div class="card-author">Autor: Elena Fernández</div>
                 </div>
+                <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Jazmin Rayo Caicedo</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> estudiante universitario,</p>
+                <p><span class="keyword">Quiero</span>crear una cuenta con mi correo institucional,</p>
+                <p><span class="keyword">Para</span>garantizar que solo la comunidad universitaria pueda acceder.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Jazmin Rayo Caicedo</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span>  usuario registrado,</p>
+                <p><span class="keyword">Quiero</span>publicar productos o servicios con fotos, descripción y precio,</p>
+                <p><span class="keyword">Para</span> poder venderlos a otros miembros de la universidad.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Jazmin Rayo Caicedo</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span>comprador,</p>
+                <p><span class="keyword">Quiero</span>buscar y filtrar productos por categoría, precio y disponibilidad,</p>
+                <p><span class="keyword">Para</span>encontrar más rápido lo que necesito dentro de la universidad.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Jazmin Rayo Caicedo</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span>  usuario,</p>
+                <p><span class="keyword">Quiero</span> comunicarme por chat con otros miembros dentro de la app,</p>
+                <p><span class="keyword">Para</span> acordar detalles de compra/venta sin salir de la plataforma.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Jazmin Rayo Caicedo</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> comprador,</p>
+                <p><span class="keyword">Quiero</span> calificar y dejar reseñas a los vendedores,</p>
+                <p><span class="keyword">Para</span>dar confianza a futuros usuarios y mejorar la seguridad de la comunidad.</p>
+            </div>
+        </div>
             </div>
         `;
         
