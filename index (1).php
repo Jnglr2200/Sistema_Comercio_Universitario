@@ -232,6 +232,53 @@
                 <p><span class="keyword">Para</span> ayudar a otros usuarios a tomar mejores decisiones de compra.</p>
             </div>
         </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Overney Quiñonez Ruben</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> estudiante,</p>
+                <p><span class="keyword">Quiero</span> un traductor integrado en la plataforma,</p>
+                <p><span class="keyword">Para</span> poder entender mejor las instrucciones y participar sin barreras de idioma.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Overney Quiñonez Ruben</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> representante estudiantil,</p>
+                <p><span class="keyword">Quiero</span> poder crear encuestas rápidas en la aplicación,</p>
+                <p><span class="keyword">Para</span> conocer las opiniones de mis compañeros antes de tomar decisiones en asambleas.</p>
+            </div>
+        </div>
+        
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Overney Quiñonez Ruben</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> profesor invitado,</p>
+                <p><span class="keyword">Quiero</span> acceder a un espacio temporal con permisos limitados,</p>
+                <p><span class="keyword">Para</span> poder dictar un taller sin necesidad de crear una cuenta completa.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Overney Quiñonez Ruben</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> estudiante con discapacidad visual,</p>
+                <p><span class="keyword">Quiero</span> que la aplicación sea compatible con lectores de pantalla,</p>
+                <p><span class="keyword">Para</span> poder usarla sin dificultad en mis clases y actividades.</p>
+            </div>
+        </div>
+
+        <div class="card card-user-story" style="background-color: lightblue;">
+            <div class="card-header">Overney Quiñonez Ruben</div>
+            <div class="card-body">
+                <p><span class="keyword">Como</span> organizador de eventos universitarios,</p>
+                <p><span class="keyword">Quiero</span> tener un módulo para registrar asistencia mediante código QR,</p>
+                <p><span class="keyword">Para</span> agilizar el control de participantes sin usar listas en papel.</p>
+            </div>
+        </div>
+
+        
     </div>
 `;
 
